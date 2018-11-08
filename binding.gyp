@@ -78,7 +78,7 @@
             "-L/usr/local/lib"
           ],
           "xcode_settings": {
-            "MACOSX_DEPLOYMENT_TARGET": "10.7",
+            "MACOSX_DEPLOYMENT_TARGET": "10.9",
             "OTHER_CPLUSPLUSFLAGS": [
               "-stdlib=libc++"
             ]
